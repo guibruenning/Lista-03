@@ -19,7 +19,7 @@ public class Exer29 {
 			System.out.print("Digite o valor de m: ");
 			m = entrada.nextInt();
 		} while (m <= n);
-			
+
 		for (i = n; i <= m; i++) {
 			System.out.println(x + " x " + i + " = " + (x * i));
 		}
